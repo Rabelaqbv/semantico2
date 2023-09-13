@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(220, 236, 250);
+
+}
+
+h1{
+    color:black
+}
+
+div {
+    display: block;
+    background-color: rgb(0, 0, 0);
+    border-color: gold;
+    height: 150px;
+    text-align: center;
+  }
+
+h2{
+    color:gold
+
+  }
+
+h3{
+color:black
+
+}
+
+h4{
+    color:black
+    
+    }
+
+div{
+    background-color: gold;
+}
